@@ -1,6 +1,6 @@
-let modInfo = {
+let modInfo = {bakery tree}
 	name: "The ??? Tree",
-	id: "mymod",
+	id: "9280deathbakery888",
 	author: "nobody",
 	pointsName: "points",
 	discordName: "",
