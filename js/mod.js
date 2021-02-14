@@ -1,10 +1,10 @@
-let modInfo = {bakery tree}
-	name: "The ??? Tree",
+let modInfo = {bakery tree
+	name: "The Bakery Tree",
 	id: "9280deathbakery888",
-	author: "nobody",
-	pointsName: "points",
-	discordName: "",
-	discordLink: "",
+	author: "Death9208",
+	pointsName: "cookies",
+	discordName: "Link to the bakery tree discord",
+	discordLink: "https://discord.gg/9NWCbsxDU9",
 	initialStartPoints: new Decimal (10), // Used for hard resets and new players
 	
 	offlineLimit: 1,  // In hours
@@ -12,8 +12,8 @@ let modInfo = {bakery tree}
 
 // Set your version in num and name
 let VERSION = {
-	num: "0.0",
-	name: "Literally nothing",
+	num: "0.9",
+	name: "Beta",
 }
 
 let changelog = `<h1>Changelog:</h1><br>
